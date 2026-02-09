@@ -14,7 +14,9 @@ Sales dataset containing order date, region, product, salesperson, quantity, and
 ## Analysis & Insights
 
 ### Region-wise Sales
-![Region Wise Sales](region_wise_sales.png)
+<img width="167" height="95" alt="Screenshot 2026-02-09 150706" src="https://github.com/user-attachments/assets/9c457ac2-4003-4865-ad9a-098028914ecd" />
+
+
 - East region generated the highest sales.
 
 ### Product-wise Sales
