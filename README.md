@@ -31,6 +31,13 @@ Sales dataset containing order date, region, product, salesperson, quantity, and
 
 - Sita is the top-performing salesperson.
 
+### Dash Board for - Sales Data set
+<img width="692" height="302" alt="image" src="https://github.com/user-attachments/assets/0e161edf-b398-4370-88ad-dcde4d18a7db" />
+
+- As per Data cretaed Sales data report dashboard.
+- In this dashboard i kept the silcers , in this silcers we can select region , product and sales person wise .
+- then it will display the results.
+
 ## Conclusion
 This project demonstrates Excel-based data analysis using pivot tables to derive meaningful business insights.
 
